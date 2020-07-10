@@ -1,0 +1,9 @@
+C:\Users\skjsn\Workspace\KeilPorjectConvertor\bin\Debug\KeilPorjectConvertor.exe.config
+C:\Users\skjsn\Workspace\KeilPorjectConvertor\bin\Debug\KeilPorjectConvertor.exe
+C:\Users\skjsn\Workspace\KeilPorjectConvertor\bin\Debug\KeilPorjectConvertor.pdb
+C:\Users\skjsn\Workspace\KeilPorjectConvertor\obj\Debug\KeilPorjectConvertor.csproj.CoreCompileInputs.cache
+C:\Users\skjsn\Workspace\KeilPorjectConvertor\obj\Debug\KeilPorjectConvertor.exe
+C:\Users\skjsn\Workspace\KeilPorjectConvertor\obj\Debug\KeilPorjectConvertor.pdb
+C:\Users\skjsn\Workspace\KeilPorjectConvertor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\skjsn\Workspace\KeilPorjectConvertor\obj\Debug\KeilPorjectConvertor.csproj.CopyComplete
+C:\Users\skjsn\Workspace\KeilPorjectConvertor\obj\Debug\KeilPorjectConvertor.csproj.Fody.CopyLocal.cache

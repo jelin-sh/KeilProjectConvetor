@@ -1,0 +1,10 @@
+C:\Users\skjsn\Workspace\KeilPorjectConvertor\bin\Release\KeilPorjectConvertor.exe.config
+C:\Users\skjsn\Workspace\KeilPorjectConvertor\bin\Release\KeilPorjectConvertor.exe
+C:\Users\skjsn\Workspace\KeilPorjectConvertor\bin\Release\KeilPorjectConvertor.pdb
+C:\Users\skjsn\Workspace\KeilPorjectConvertor\bin\Release\Newtonsoft.Json.xml
+C:\Users\skjsn\Workspace\KeilPorjectConvertor\obj\Release\KeilPorjectConvertor.csproj.CoreCompileInputs.cache
+C:\Users\skjsn\Workspace\KeilPorjectConvertor\obj\Release\KeilPorjectConvertor.csproj.Fody.CopyLocal.cache
+C:\Users\skjsn\Workspace\KeilPorjectConvertor\obj\Release\KeilPorjectConvertor.csproj.CopyComplete
+C:\Users\skjsn\Workspace\KeilPorjectConvertor\obj\Release\KeilPorjectConvertor.exe
+C:\Users\skjsn\Workspace\KeilPorjectConvertor\obj\Release\KeilPorjectConvertor.pdb
+C:\Users\skjsn\Workspace\KeilPorjectConvertor\obj\Release\KeilPorjectConvertor.csprojAssemblyReference.cache
